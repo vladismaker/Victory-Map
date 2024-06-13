@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Victory Map</string>
+    <string name="not_gps_permission">Разрешение не предоставлено, разрешите доступ к геопозиции</string>
+    <string name="check_internet">Проверьте подключение с интернетом</string>
+</resources>
